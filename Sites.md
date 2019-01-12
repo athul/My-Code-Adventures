@@ -1,4 +1,4 @@
-freecodecamp.Org
-Udacity 
-Codeacademy 
-Edx
+- freecodecamp.Org
+- Udacity 
+- Codeacademy 
+- Edx
