@@ -4,3 +4,4 @@
 - Edx
 - http://gitimmersion.com/index.html
 - https://scrimba.com
+- https://lectures.quantecon.org/py/
