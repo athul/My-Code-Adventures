@@ -1,3 +1,39 @@
 # My-Code-Adventures
-Links to Websites, Blogs, code etc.... 
-Huhu... Commit od commiy
+Links to Websites, Blogs, code etc.... (personal view)
+### Books
+Topic|Book
+---|---
+JavaScript|Eloquent JavaScript
+Git |Progit
+Deep Learning | Deep Learning with Python, François Chollet
+Machine Learning| Scikit-Learn Documentation
+Rust Lang| Official Book
+Python | Automate the Boring Stuff with Python
+------
+### Some Websites(learning)   
+
+Topic|Websites
+---|---
+Web Design(Full Stack)|[freeCodeCamp](www.freecodecamp.org)
+Web Design|[Scrimba](scrimba.com)
+Git | [GitImmersion](http://gitimmersion.com/index.html)
+Python(Sceintifc Stack)|[Quantecon Leactures](https://lectures.quantecon.org/py/)
+All Technologies| Codeacademy, Udacity, Coursera, Edx
+Deep Learning| Fast AI
+----
+### Study Blogs
+
+Topic| Blogs
+---|---
+Any Technology Stack|[DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials.)
+Django| Django Girls Tutorials
+Any Technology Stack| freeCodeCamp's __Medium__ page
+----
+### Productivity and Design
+
+Design| Website
+---|---
+Vs Code|[Vs Code Can Do That](https://vscodecandothat.com)
+Presentation|[Slides.com](Slides.com)
+:point_up::point_right:|**MDX-Deck**(GitHub),**F# Reveal**(GitHub),**Reveal.Js**(GitHub),**Reveal MD**(GitHub),Google Slides
+**Slide Design** |[ColorSupplyyy](https://colorsupplyyy.com),[Pexels](https://www.pexels.com),[Noun Project](https://thenounproject.com)   

@@ -1,6 +1,0 @@
-- Js, Eloquent JavaScript 
-- Git, Progit
-- DL, Deep Learning with Python, François Chollet 
-- ML, Scikit-Learn Documentation
-- Rust, Official Book
-- Python, Automate the Boring Stuff with Python 
