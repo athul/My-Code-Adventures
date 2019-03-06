@@ -19,7 +19,8 @@ Web Design|[Scrimba](scrimba.com)
 Git | [GitImmersion](http://gitimmersion.com/index.html)
 Python(Sceintifc Stack)|[Quantecon Leactures](https://lectures.quantecon.org/py/)
 All Technologies| Codeacademy, Udacity, Coursera, Edx
-Deep Learning| Fast AI
+Deep Learning| Fast AI(https://www.fast.ai/)
+
 ----
 ### Study Blogs
 
