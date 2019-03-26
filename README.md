@@ -37,7 +37,8 @@ Design| Website
 Vs Code|[Vs Code Can Do That](https://vscodecandothat.com)
 Presentation|[Slides.com](Slides.com)
 :point_up::point_right:|**MDX-Deck**(GitHub),**F# Reveal**(GitHub),**Reveal.Js**(GitHub),**Reveal MD**(GitHub),Google Slides
-**Slide Design** |[ColorSupplyyy](https://colorsupplyyy.com),[Pexels](https://www.pexels.com),[Icons](https://icons8.com/)
+**Slide Design** |[ColorSupplyyy](https://colorsupplyyy.com),[Pexels](https://www.pexels.com)
+Icons++|[Feather Icons](https://feathericons.com/) ,[Icons](https://icons8.com/)
 -----
 ### GitHub and Git Related
 Item|Link
